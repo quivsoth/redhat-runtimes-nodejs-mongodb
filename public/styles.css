@@ -1,0 +1,25 @@
+body {
+    margin:0;
+    color: white;
+    background-color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('bg.jpg');
+}
+
+h1 {
+    margin: 0;
+}
+
+h2, p {
+    padding: 20px;
+}
+
+.header {
+    width: 100%;
+    background-color:slategray;
+    border-bottom: 1px black solid;
+}
+
+#logo {
+    padding: 20px;
+}
